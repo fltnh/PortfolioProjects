@@ -1,3 +1,7 @@
+-- Using datasets provided below -- 
+-- 1. Covid Deaths: https://github.com/AlexTheAnalyst/Por...
+-- 2. Covid Vaccinations: https://github.com/AlexTheAnalyst/Por...
+
 -- Check datasets--
 
 SELECT * 
